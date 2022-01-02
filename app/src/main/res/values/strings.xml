@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MySensorMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="string_array_colors">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Rose</item>
+        <item>Yellow</item>
+        <item>Red</item>>
+
+    </string-array>
+</resources>
